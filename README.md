@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fqvac-prediction-market&description_lines_count=3&theme=default)](https://github.com/developertogo/qvac-prediction-market)
+
 <!--
 **developertogo/developertogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
