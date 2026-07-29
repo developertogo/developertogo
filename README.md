@@ -4,27 +4,29 @@
 
 Welcome to my GitHub profile! I focus on creating clean, efficient, and user-centric applications. Check out my pinned repositories below to see what I've been working on lately.
 
-<p align="center" style="clear: both; margin-bottom: 16px;">
-  <a href="https://github.com/developertogo/peoplesync"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fpeoplesync&description_lines_count=3&theme=default" width="48.5%" align="left" style="margin: 0;" /></a>
-  <a href="https://github.com/developertogo/velo-sentinel"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-sentinel&description_lines_count=3&theme=default" width="48.5%" align="right" style="margin: 0;" /></a>
+<p align="center" style="margin-bottom: 16px;">
+  <a href="https://github.com/developertogo/peoplesync"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fpeoplesync&description_lines_count=3&theme=default" width="48.5%" align="left" /></a>
+  <a href="https://github.com/developertogo/velo-sentinel"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-sentinel&description_lines_count=3&theme=default" width="48.5%" align="right" /></a>
+  <br clear="all" />
 </p>
 
-<p align="center" style="clear: both; margin-bottom: 16px;">
-  <a href="https://github.com/developertogo/beat-opus-4.5-challenge"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fbeat-opus-4.5-challenge&description_lines_count=3&theme=default" width="48.5%" align="left" style="margin: 0;" /></a>
-  <a href="https://github.com/developertogo/velo-core"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-core&description_lines_count=3&theme=default" width="48.5%" align="right" style="margin: 0;" /></a>
+<p align="center" style="margin-bottom: 16px;">
+  <a href="https://github.com/developertogo/beat-opus-4.5-challenge"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fbeat-opus-4.5-challenge&description_lines_count=3&theme=default" width="48.5%" align="left" /></a>
+  <a href="https://github.com/developertogo/velo-core"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-core&description_lines_count=3&theme=default" width="48.5%" align="right" /></a>
+  <br clear="all" />
 </p>
 
-<p align="center" style="clear: both; margin-bottom: 16px;">
-  <a href="https://github.com/developertogo/velo-infra-playground"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-infra-playground&description_lines_count=3&theme=default" width="48.5%" align="left" style="margin: 0;" /></a>
-  <a href="https://github.com/developertogo/scrub-pii"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fscrub-pii&description_lines_count=3&theme=default" width="48.5%" align="right" style="margin: 0;" /></a>
+<p align="center" style="margin-bottom: 16px;">
+  <a href="https://github.com/developertogo/velo-infra-playground"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fvelo-infra-playground&description_lines_count=3&theme=default" width="48.5%" align="left" /></a>
+  <a href="https://github.com/developertogo/scrub-pii"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fscrub-pii&description_lines_count=3&theme=default" width="48.5%" align="right" /></a>
+  <br clear="all" />
 </p>
 
-<p align="center" style="clear: both; margin-bottom: 16px;">
-  <a href="https://github.com/developertogo/qvac-prediction-market"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fqvac-prediction-market&description_lines_count=3&theme=default" width="48.5%" align="left" style="margin: 0;" /></a>
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'/>" width="48.5%" align="right" style="margin: 0;" />
+<p align="center" style="margin-bottom: 16px;">
+  <a href="https://github.com/developertogo/qvac-prediction-market"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fqvac-prediction-market&description_lines_count=3&theme=default" width="48.5%" align="left" /></a>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'/>" width="48.5%" align="right" />
+  <br clear="all" />
 </p>
-
-<br clear="all" />
 
 ### 🚀 Open Source PR Contributions
 
@@ -43,11 +45,6 @@ Welcome to my GitHub profile! I focus on creating clean, efficient, and user-cen
     </p>
   </li>
 </ul>
-
-<!--
-**developertogo/developertogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
