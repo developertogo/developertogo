@@ -7,6 +7,28 @@ Welcome to my GitHub profile! I focus on creating clean, efficient, and user-cen
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/developertogo/livekit-prism"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Flivekit-prism&description_lines_count=3&theme=default" width="100%" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 16px; border: 1px solid #d0d7de; border-radius: 6px;">
+        <div>
+          <a href="https://github.com/developertogo/livekit-agents/tree/feat/plugin-posthog" style="font-weight: bold; color: #0969da; text-decoration: none; font-size: 14px;">
+            📦 livekit.plugins.posthog
+          </a>
+        </div>
+        <p style="margin: 8px 0 8px 0; color: #57606a; font-size: 13px; line-height: 1.5;">
+          Official PostHog plugin for LiveKit Agents providing AI Observability, latency waterfalls, and dual-channel multimodal tool execution.
+        </p>
+        <div>
+          <a href="https://developertogo.github.io/livekit.plugins.posthog" style="color: #0969da; text-decoration: none; font-size: 13px; font-weight: 600;">
+            📖 Documentation Preview ↗
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/developertogo/k8s-distributed-storage-plane"><img src="https://github-stats-extended.vercel.app/api/pin?username=developertogo&repo=developertogo%2Fk8s-distributed-storage-plane&description_lines_count=3&theme=default" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
