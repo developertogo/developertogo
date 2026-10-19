@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I focus on creating clean, efficient, and user-cen
           </a>
         </div>
         <p style="margin: 8px 0 8px 0; color: #57606a; font-size: 13px; line-height: 1.5;">
-          Official PostHog plugin for LiveKit Agents providing AI Observability, latency waterfalls, and dual-channel multimodal tool execution.
+          A PostHog plugin for LiveKit Agents providing AI Observability, latency waterfalls, and dual-channel multimodal tool execution.
         </p>
         <div>
           <a href="https://developertogo.github.io/livekit.plugins.posthog" style="color: #0969da; text-decoration: none; font-size: 13px; font-weight: 600;">
